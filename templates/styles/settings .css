@@ -1,0 +1,12 @@
+body {
+    font-family: Arial, sans-serif;
+}
+form {
+    margin: 20px 0;
+}
+label {
+    font-weight: bold;
+}
+select, button {
+    margin: 10px 0;
+}
